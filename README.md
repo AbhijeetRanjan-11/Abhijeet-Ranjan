@@ -1,11 +1,11 @@
 f## 👋 Hi, I'm Abhijeet Ranjan
 
-Cybersecurity and database engineer skilled in Python, network security, and robust database protection. Experienced in designing secure architectures, automating security monitoring, and ensuring data integrity and compliance. Passionate about leveraging technology to build efficient, user-friendly solutions for impactful cybersecurity and data management projects.
+Aspiring Computer Science graduate with a strong foundation in cybersecurity, Java, Python, and SQL programming. Demonstrated proficiency through projects involving cloud integration, AI-driven threat detection, encryption, big data analytics, machine learning, and web development, highlighting advanced problem-solving abilities and technical expertise. Eager to leverage both theoretical knowledge and hands-on experience in cybersecurity, network testing, and web application security to drive innovation and contribute to cutting-edge technology solutions at Craw Security and Corizo.
 
 ---
 
 **🔒 Skills:**  
-Web Application Penetration Testing: BurpSuite, SQLmap, John the Ripper, WPScan, Wfuzz, Aircarck-ng, MITM and OWASP Top 10.
+Web Application Penetration Testing: BurpSuite, SQLmap, John the Ripper, WPScan, Wfuzz, Aircarck-ng, MITM, OWASP Top 10 ,DAST and fuzz testing.
 Networking: TCP/IP, DNS, DHCP, VLANs, Routing, Switching | Cisco Packet Tracer Tools, Wireshark,Nmap,Acunetix,Nessus,Cisco
 packet, Nikto and Rapid7.
 Digital Forensics: Autopsy, Forensics Toolkit, FTK Image, Volatility and The Sleuth Kit
