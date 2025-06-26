@@ -1,45 +1,50 @@
-f## 👋 Hi, I'm Abhijeet Ranjan
+👨‍💻 Abhijeet Ranjan - Cybersecurity & Secure Software Enthusiast
 
-Aspiring Computer Science graduate with a strong foundation in cybersecurity, Java, Python, and SQL programming. Demonstrated proficiency through projects involving cloud integration, AI-driven threat detection, encryption, big data analytics, machine learning, and web development, highlighting advanced problem-solving abilities and technical expertise. Eager to leverage both theoretical knowledge and hands-on experience in cybersecurity, network testing, and web application security to drive innovation and contribute to cutting-edge technology solutions at Craw Security and Corizo.
+Welcome to my GitHub! I’m a Computer Science Engineer with strong expertise in Cybersecurity, Network Security, Secure Software Development, and AI-powered Threat Detection. .Demonstrated hands-on experience in penetration testing, vulnerability assessment, encryption, secure web development, and cloud platforms AWS.Proficient in leveraging advanced tools for digital forensics, SIEM, and incident response.Eager to apply problem-solving skills to drive innovation incybersecurity and secure technology solutions.
 
----
+🔐 Areas of Expertise and Skills
 
-**🔒 Skills:**  
-Web Application Penetration Testing: BurpSuite, SQLmap, John the Ripper, WPScan, Wfuzz, Aircarck-ng, MITM, OWASP Top 10 ,DAST and fuzz testing.
-Networking: TCP/IP, DNS, DHCP, VLANs, Routing, Switching | Cisco Packet Tracer Tools, Wireshark,Nmap,Acunetix,Nessus,Cisco
-packet, Nikto and Rapid7.
-Digital Forensics: Autopsy, Forensics Toolkit, FTK Image, Volatility and The Sleuth Kit
-Framework: OSINT, Metasploit, SpiderFoot, Recon-ng, OWASP ZAP, W3af, BeEF, Volatility, Django, Flask, SQLAlchemy, PyMongo,
-Scapy, Autopsy, theHarvester, SET, OpenVAS,scikit-learn, TensorFlow, Apache Spark and Hadoop
-Tools: Virtual Box, VMWare, Git vs Github, Docker, AWS,JIRA, SDLC (Software Development Life Cycle), Tableau and Power BI
-Database: Oracle Database and Mongo DB.
-Programming: Python and SQL.
+    Cybersecurity & Network Security:
+    Penetration Testing, Web Application Security, Encryption (AES, PBKDF2), OWASP Top 10, DAST, Threat Detection, Incident Response, IDS/IPS, SIEM (Splunk, QRadar), Zero Trust, Firewall Configuration, Wireshark, Nmap, Nessus, OpenVAS, Rapid7, TCP/IP, DNS, DHCP, VLANs, Routing, Switching, Firewalls
+
+    Security Tools & Frameworks:
+    Burp Suite, SQLmap, WPScan, Wfuzz, John the Ripper, BeEF, OWASP ZAP, W3af
+
+    Digital Forensics & OSINT:
+    Autopsy, FTK Imager, Volatility, The Sleuth Kit, Forensics Toolkit, SpiderFoot, Recon-ng, the Harvester, Social Engineering Toolkit (SET)
+
+    Cloud Security & Platforms:
+    AWS (Basic), Docker, Git, GitHub, Secure SDLC
+
+    Data Science & Threat Analytics:
+    AI-Powered Threat Detection, TensorFlow, scikit-learn, Apache Spark, Hadoop, Real-Time Data Analytics, Tableau, Power BI
+
+    Programming & Secure Development:
+    Python, Java, SQL (Basic), Bash Scripting, Flask, PyMongo, Scapy
+
+    Databases & Operating Systems:
+    Oracle Database, MongoDB, Linux, Windows
 
 
-**🛠️ Projects:**  
-## Firewall Security System (Python, Java, Azure, AI) - It is on Progress
-- Developed a web-based firewall application using XML-based data transmission and API integrations.
-- Implemented core functionality in Python and Java.
-- Integrated cloud services using Microsoft Azure and explored AI techniques for intelligent threat detection.
-  
-## Advanced Caesar Cipher AES Image Encryptor
-- The application supports both classic Caesar cipher encryption for text and advanced AES encryption for images (at both file and pixel levels), making it versatile for different types of data security.
-- Uses secure password-based key derivation (PBKDF2 with salt) and multiple AES modes (CBC, GCM, ECB) for robust image encryption and decryption, ensuring data confidentiality and integrity.
-- Built with Tkinter, the GUI allows easy interaction for selecting files, entering passwords, choosing encryption modes, and viewing results, making complex encryption accessible to all users.
+🛠 Featured Projects
 
-## Scalable Big Data Analytics of Real-Time Fraud Detection (Python, ML, Spark, Hadoop)
-- Developed an advanced fraud detection system using Python and machine learning frameworks (scikit-learn, TensorFlow),achieving high accuracy and low false-positive rates for real-time credit card transaction analysis.
-- Leveraged big data technologies such as Apache Spark and Hadoop to process and analyze large-scale transaction datasets, enabling scalable and efficient real-time fraud detection.
-- Implemented feature engineering and real-time monitoring techniques, integrating supervised and unsupervised learning algorithms (e.g., decision trees, neural networks, ensemble methods) to enhance system robustness and minimize financial risk.
-  
-## Design and Development of an Efficient and Intelligent Weather Forecasting App (HTML, CSS, JS,Bootstrap, OpenWeatherMap API)
-- Developed a web-based weather forecasting app using HTML, CSS, and JavaScript.
-- Integrated the OpenWeatherMap API to fetch real-time weather data based on user input (location, season, and sunlight levels).
-- Enabled weather insights for remote areas by optimizing API queries and UI responsiveness.
+    Firewall Security System
+    Web-based firewall with AI-powered threat detection, AWS integration, XML data handling, and ISO 27001 compliance
 
-**📫 Connect with me:**  
-[LinkedIn](https://linkedin.com/in/abhijeet-ranjan-0b9143215) | [GitHub](https://github.com/garurmaga) | Gmail: abhijeetranjan839@gmail.com
+    Advanced Caesar Cipher & AES Image Encryptor
+    Secure GUI tool for text encryption (Caesar Cipher) and image encryption (AES CBC, GCM, ECB) with PBKDF2 password handling
 
----
+    Real-Time Fraud Detection with Big Data Analytics
+    Big data-powered AI system for real-time credit card fraud detection using Spark, Hadoop, and ML models
 
-*Always eager to learn, collaborate, and make a difference in cybersecurity and data engineering!*
+    Intelligent Weather Forecasting Application
+    Web-based responsive weather app with real-time API integration and optimized UI
+
+    📫 Get in Touch
+
+    📧 Email: abhijeetranjan839@gmail.com
+
+    🔗 LinkedIn: linkedin.com/in/abhijeet-ranjan-0b9143215
+
+    🐙 GitHub: github.com/AbhijeetRanjan-11
+
