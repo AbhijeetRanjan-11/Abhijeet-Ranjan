@@ -41,6 +41,7 @@ Intelligent Weather Forecasting Application
 
 
 📫 Get in Touch
+
     📧 Email: abhijeetranjan839@gmail.com
     🔗 LinkedIn: linkedin.com/in/abhijeet-ranjan-0b9143215
     🐙 GitHub: github.com/AbhijeetRanjan-11
