@@ -27,24 +27,22 @@ Welcome to my GitHub! I’m a Computer Science Engineer with strong expertise in
 
 
 🛠 Featured Projects
-
-    Firewall Security System
+Firewall Security System
     Web-based firewall with AI-powered threat detection, AWS integration, XML data handling, and ISO 27001 compliance
 
-    Advanced Caesar Cipher & AES Image Encryptor
+Advanced Caesar Cipher & AES Image Encryptor
     Secure GUI tool for text encryption (Caesar Cipher) and image encryption (AES CBC, GCM, ECB) with PBKDF2 password handling
 
-    Real-Time Fraud Detection with Big Data Analytics
+Real-Time Fraud Detection with Big Data Analytics
     Big data-powered AI system for real-time credit card fraud detection using Spark, Hadoop, and ML models
 
-    Intelligent Weather Forecasting Application
+Intelligent Weather Forecasting Application
     Web-based responsive weather app with real-time API integration and optimized UI
 
-    📫 Get in Touch
 
+📫 Get in Touch
     📧 Email: abhijeetranjan839@gmail.com
-
     🔗 LinkedIn: linkedin.com/in/abhijeet-ranjan-0b9143215
-
     🐙 GitHub: github.com/AbhijeetRanjan-11
 
+    
