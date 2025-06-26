@@ -1,6 +1,6 @@
 👨‍💻 Abhijeet Ranjan - Cybersecurity & Secure Software Enthusiast
 
-Welcome to my GitHub! I’m a Computer Science Engineer with strong expertise in Cybersecurity, Network Security, Secure Software Development, and AI-powered Threat Detection. .Demonstrated hands-on experience in penetration testing, vulnerability assessment, encryption, secure web development, and cloud platforms AWS.Proficient in leveraging advanced tools for digital forensics, SIEM, and incident response.Eager to apply problem-solving skills to drive innovation incybersecurity and secure technology solutions.
+Welcome to my GitHub! I’m a Computer Science Engineer with strong expertise in Cybersecurity, Network Security, Secure Software Development, and AI-powered Threat Detection. .Demonstrated hands-on experience in penetration testing, vulnerability assessment, encryption, secure web development, and cloud platforms AWS.Proficient in leveraging advanced tools for digital forensics, SIEM, and incident response.Eager to apply problem-solving skills to drive innovation in cybersecurity and secure technology solutions.
 
 🔐 Areas of Expertise and Skills
 
