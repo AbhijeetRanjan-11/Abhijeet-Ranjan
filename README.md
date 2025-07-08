@@ -22,22 +22,23 @@ Databases & Operating Systems: Oracle Database, MongoDB, Linux, Windows.
 
 
 🛠 Projects
-1. Firewall Security System (On Progress)
+
+1.Firewall Security System (On Progress)  
 Led the evaluation of system requirements, network architecture, and vulnerabilities to design and deploy a scalable, security-focused web firewall ensuring secure data transmission, real-time threat monitoring, and regulatory compliance.
 
 Spearheaded security development using Python, Java, APIs, and AI-driven threat detection integrated with AWS cloud security, strengthening system defenses in alignment with ISO 27001 and NIST standards.
 
-2. Advanced Caesar Cipher & AES Image Encryptor
+2.Advanced Caesar Cipher & AES Image Encryptor  
 Led the development of a Tkinter-based GUI application for text encryption using Caesar Cipher and advanced image encryption with AES (CBC, GCM, ECB), incorporating PBKDF2 with salt for secure key derivation.
 
 Strengthened application security by integrating multiple encryption techniques and enabling user-friendly configuration and secure file handling within a single interface.
 
-3. Real-Time Fraud Detection with Big Data Analytics
+3.Real-Time Fraud Detection with Big Data Analytics
 Led the development of a real-time fraud detection system using Python, scikit-learn, and TensorFlow; boosted detection accuracy with minimal false positives by processing large-scale datasets with Apache Spark and Hadoop.
 
 Strengthened system resilience through feature engineering, real-time monitoring, and hybrid supervised/unsupervised models, enabling scalable fraud prevention.
 
-4. Intelligent Weather Forecasting Application
+4.Intelligent Weather Forecasting Application
 Spearheaded the creation of a dynamic weather forecasting platform leveraging HTML, CSS, JavaScript, Bootstrap, and OpenWeatherMap API to provide real-time, location-based environmental insights.
 
 Optimized API interactions and strengthened application performance to deliver accurate, scalable forecasts with an enhanced, user-friendly interface.
@@ -47,7 +48,9 @@ Optimized API interactions and strengthened application performance to deliver a
 📫 Get in Touch
 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-ranjan-0b9143215)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijeetranjan839@gmail.com)
-🐙 GitHub: github.com/AbhijeetRanjan-11
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijeetranjan839@gmail.com)
+[!(GitHub](<a href="https://github.com/AbhijeetRanjan-11">
+  <img src="path/to/github-icon.svg" alt="GitHub" width="32" height="32">
+</a>
 
     
