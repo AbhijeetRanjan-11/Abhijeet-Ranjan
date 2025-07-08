@@ -47,7 +47,7 @@ Spearheaded the creation of a dynamic weather forecasting platform leveraging HT
 
 Optimized API interactions and strengthened application performance to deliver accurate, scalable forecasts with an enhanced, user-friendly interface.
 
-5.LinkedIn Carousel Generator
+5.SlideFlow LinkedIn Carousel Generator
 
 Analyzed the needs of content creators on LinkedIn by identifying the demand for streamlined, consistent, and visually engaging carousel posts to boost audience interaction.
 
