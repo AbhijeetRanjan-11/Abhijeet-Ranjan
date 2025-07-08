@@ -45,9 +45,9 @@ Optimized API interactions and strengthened application performance to deliver a
 
 
 📫 Get in Touch
-
-    📧 Email: abhijeetranjan839@gmail.com
-    🔗 LinkedIn: linkedin.com/in/abhijeet-ranjan-0b9143215
-    🐙 GitHub: github.com/AbhijeetRanjan-11
+🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-ranjan-0b9143215)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijeetranjan839@gmail.com)
+🐙 GitHub: github.com/AbhijeetRanjan-11
 
     
