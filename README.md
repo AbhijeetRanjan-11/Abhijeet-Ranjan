@@ -41,7 +41,7 @@ Led the development of a real-time fraud detection system using Python, scikit-l
 
 Strengthened system resilience through feature engineering, real-time monitoring, and hybrid supervised/unsupervised models, enabling scalable fraud prevention.
 
-4.Intelligent Weather Forecasting Application
+4.Weather Forecasting Application
 
 Spearheaded the creation of a dynamic weather forecasting platform leveraging HTML, CSS, JavaScript, Bootstrap, and OpenWeatherMap API to provide real-time, location-based environmental insights.
 
@@ -55,7 +55,7 @@ Researched design standards, branding principles, and automation libraries (like
 
 Implemented a fully automated Python-based tool that transforms user content into high-quality, on-brand LinkedIn carousels—enhancing productivity, visual consistency, and personal branding impact.
 
-6.Pomodore
+6.Pomodore - Study with me
 
 Analyzed user productivity challenges and focus patterns, identifying the need for a distraction-free time management tool aligned with the Pomodoro Technique.
 
