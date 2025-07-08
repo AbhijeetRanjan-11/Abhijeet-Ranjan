@@ -43,7 +43,12 @@ Spearheaded the creation of a dynamic weather forecasting platform leveraging HT
 
 Optimized API interactions and strengthened application performance to deliver accurate, scalable forecasts with an enhanced, user-friendly interface.
 
+5.LinkedIn Carousel Generator
+Analyzed the needs of content creators on LinkedIn by identifying the demand for streamlined, consistent, and visually engaging carousel posts to boost audience interaction.
 
+Researched design standards, branding principles, and automation libraries (like PIL) to craft a modular solution capable of dynamically rendering branded slide decks from structured input.
+
+Implemented a fully automated Python-based tool that transforms user content into high-quality, on-brand LinkedIn carousels—enhancing productivity, visual consistency, and personal branding impact.
 
 📫 Get in Touch
 
