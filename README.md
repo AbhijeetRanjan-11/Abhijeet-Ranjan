@@ -51,9 +51,12 @@ Optimized API interactions and strengthened application performance to deliver a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-ranjan-0b9143215)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijeetranjan839@gmail.com)
-[!(GitHub](<a href="https://github.com/AbhijeetRanjan-11"> 
-<img src="![image](https://github.com/user-attachments/assets/8a1c0550-c559-458b-a325-cc9b31a79cf4)
-" alt="GitHub" width="32" height="32">
+<a href="https://github.com/AbhijeetRanjan-11" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" 
+    alt="GitHub" 
+  />
 </a>
+
 
     
