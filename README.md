@@ -55,6 +55,14 @@ Researched design standards, branding principles, and automation libraries (like
 
 Implemented a fully automated Python-based tool that transforms user content into high-quality, on-brand LinkedIn carousels—enhancing productivity, visual consistency, and personal branding impact.
 
+6.Pomodore
+
+Analyzed user productivity challenges and focus patterns, identifying the need for a distraction-free time management tool aligned with the Pomodoro Technique.
+
+Explored best practices in UI/UX design and productivity workflows, integrating features such as background music, session logging, and theme toggling to elevate user engagement.
+
+Implemented a customized, Python-based Pomodoro timer using Tkinter, enhancing productivity through a sleek interface, exportable session tracking, and personalized session experien
+
 📫 Get in Touch
 
 🌐 Socials:
