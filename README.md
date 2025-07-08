@@ -41,7 +41,7 @@ Led the development of a real-time fraud detection system using Python, scikit-l
 
 Strengthened system resilience through feature engineering, real-time monitoring, and hybrid supervised/unsupervised models, enabling scalable fraud prevention.
 
-4.Weather Forecasting Application
+4.Design and Development of an Efficient and Intelligent Weather Forecasting Application
 
 Spearheaded the creation of a dynamic weather forecasting platform leveraging HTML, CSS, JavaScript, Bootstrap, and OpenWeatherMap API to provide real-time, location-based environmental insights.
 
